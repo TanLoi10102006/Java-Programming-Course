@@ -1,12 +1,13 @@
 # Java-Programming-Course
 ## 📚 Giới thiệu
 Khoá học này cung cấp kiến thức nền tảng về lập trình Java, từ cú pháp cơ bản đến các khái niệm nâng cao như OOP, Collections, và xử lý ngoại lệ.  
-Tài liệu và mã nguồn trong repo được sắp xếp theo từng bài học để dễ theo dõi.
+Tài liệu và mã nguồn trong repo được sắp xếp theo từng bài học để dễ theo dõi.  
+👉 Toàn bộ ví dụ và bài tập được viết và chạy trên **Visual Studio Code (VS Code)**.
 
 ## 📂 Nội dung khoá học
 1. **Giới thiệu Java**
    - Lịch sử và ứng dụng
-   - Cài đặt JDK và IDE
+   - Cài đặt JDK và IDE (VS Code)
 2. **Cú pháp cơ bản**
    - Biến, kiểu dữ liệu, toán tử
    - Nhập/xuất dữ liệu
