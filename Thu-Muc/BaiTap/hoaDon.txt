@@ -1,0 +1,7 @@
+Khách hàng: 
+Món nước: Ca phe sua
+Size: L
+Số lượng: 5
+Đơn giá: 35000
+Thành tiền: 175000
+Ngày lập: 09/06/2026 16:07
